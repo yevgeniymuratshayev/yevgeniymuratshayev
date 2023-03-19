@@ -8,7 +8,6 @@ There is extensive experience in analytical work, automation of mathematical mod
 
 ### 🧰 Languages and Tools
 
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="width: 50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 50px" />
 <img src="https://muratshaev.me/wp-content/uploads/2023/03/python.png" style="width: 50px">
@@ -25,8 +24,8 @@ There is extensive experience in analytical work, automation of mathematical mod
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="width: 50px" />
 <img src="https://muratshaev.me/wp-content/uploads/2023/03/Wayfair_logo.svg.png" style="height: 30px">
 <img src="https://muratshaev.me/wp-content/uploads/2023/03/Bitrix24-logo-ru.svg.png" style="height: 30px">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 50px" />
+
 <!---
 yevgeniymuratshayev/yevgeniymuratshayev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
