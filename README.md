@@ -1,4 +1,4 @@
-## Hi! I’m Yevgeniy Muratshayev, and I’m a full-stack web developer.
+## Hi! I’m Yevgeniy Muratshayev, and I’m a software engineer.
 
 
 ### I create websites and web applications, automate business, conduct analytical work.
