@@ -22,8 +22,6 @@ There is extensive experience in analytical work, automation of mathematical mod
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="width: 50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" style="width: 50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="width: 50px" />
-<img src="https://muratshaev.me/wp-content/uploads/2023/03/Wayfair_logo.svg.png" style="height: 30px">
-<img src="https://muratshaev.me/wp-content/uploads/2023/03/Bitrix24-logo-ru.svg.png" style="height: 30px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 50px" />
 </p>
 
